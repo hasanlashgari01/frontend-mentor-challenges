@@ -39,11 +39,58 @@
   --font-*: initial;
   --font-sora: "Sora";
 
-  --breakpoint-xl: 1440px;
+  --breakpoint-lg: 1440px;
 }
 
-body {
-  @apply font-sora text-neutral-0 bg-neutral-900 text-base;
+@layer base {
+  body {
+    @apply font-sora text-neutral-0 bg-neutral-900 text-base;
+  }
+
+  select {
+    @apply text-neutral-0 bg-neutral-900 outline-none focus:outline-none;
+  }
+}
+
+@layer components {
+  .dropdown {
+    @apply top-full w-full rounded-xl transition-all duration-300 ease-in-out;
+    @apply max-lg:invisible max-lg:absolute max-lg:mt-3 max-lg:overflow-hidden max-lg:bg-neutral-800 max-lg:opacity-0;
+    @apply lg:ml-2;
+  }
+
+  .option {
+    @apply flex items-center gap-x-2 border-transparent px-3 py-2.5 transition-all duration-300 ease-in-out;
+    @apply lg:rounded-lg lg:border lg:px-2 lg:py-0.5;
+  }
+
+  .option:hover {
+    @apply max-lg:bg-blue-600/20;
+  }
+
+  .option:has(input:checked) {
+    @apply border-blue-400 text-blue-400;
+  }
+
+  .option span {
+    @apply relative inline-block size-5 rounded-full border-2 lg:hidden;
+  }
+
+  .option:has(input:checked) span {
+    @apply border-blue-600 bg-blue-600;
+  }
+
+  .option:has(input:checked) span:before {
+    @apply absolute top-1/2 left-1/2 size-2.5 -translate-1/2 rounded-full bg-neutral-900 content-[''];
+  }
+
+  .option input[type="radio"] {
+    @apply hidden;
+  }
+
+  .option p {
+    @apply max-lg:leading-tight;
+  }
 }
 
 @utility container {
