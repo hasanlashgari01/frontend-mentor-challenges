@@ -39,11 +39,13 @@
   --font-*: initial;
   --font-sora: "Sora";
 
-  --breakpoint-*: initial;
-  --breakpoint-sm: 375px;
   --breakpoint-xl: 1440px;
 }
 
 body {
-  @apply font-sora;
+  @apply font-sora text-neutral-0 bg-neutral-900 text-base;
+}
+
+@utility container {
+  @apply mx-auto px-3;
 }
