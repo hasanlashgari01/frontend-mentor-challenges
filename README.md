@@ -4,45 +4,50 @@
 
 ## 📌 About
 
-This repository contains my solutions to the challenges available on **Frontend Mentor**.
+This repository contains my solutions to challenges from **Frontend Mentor**.
 
-My goal is to improve my front-end development skills by solving challenges of different difficulty levels, writing clean code, and following best practices.
+The purpose of this repository is to improve my front-end development skills by building real-world projects, practicing different concepts, and following modern development best practices.
+
+Each challenge is implemented with a focus on:
+- Clean and maintainable code
+- Responsive design
+- Accessibility
+- Modern front-end practices
+
+---
 
 ## 🎯 Goals
 
 - Solve Frontend Mentor challenges consistently.
-- Improve HTML, CSS, JavaScript, React, and Next.js skills.
-- Practice writing clean, maintainable, and reusable code.
-- Track my progress over time.
-
-## 🚀 Challenges
-
-| Challenge | Difficulty | Live Demo | Source Code |
-|-----------|------------|-----------|-------------|
-| Coming Soon | - | - | - |
-
-> This table will be updated as I complete more challenges.
-
-## 🛠️ Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- TypeScript
-- React
-- Next.js
-- Tailwind CSS
-
-## 📚 Frontend Mentor
-
-Frontend Mentor provides realistic front-end coding challenges that help developers improve their skills by building real-world projects.
-
-👉 https://www.frontendmentor.io/
-
-## ⭐ Progress
-
-I will keep updating this repository as I complete more Frontend Mentor challenges.
+- Improve my HTML, CSS, JavaScript, TypeScript, React, and Next.js skills.
+- Practice building responsive and accessible interfaces.
+- Write clean, reusable, and maintainable code.
+- Track my progress as a front-end developer.
 
 ---
 
-Made with ❤️ by Hasan
+## 🚀 Challenges
+
+| Challenge | Difficulty | Technologies | Live Demo | Source Code |
+|-----------|------------|--------------|----------|-------------|
+| QR Code Component | 🟢 Newbie | HTML, CSS | [Demo](https://hasanlashgari01.github.io/frontend-mentor-challenges/newbie/qr-code-component/) | [Code](./newbie/qr-code-component) |
+
+> This table will be updated as I complete more challenges.
+
+---
+
+## 📊 Progress
+
+| Difficulty | Completed |
+|------------|-----------|
+| 🟢 Newbie | 1 |
+| 🟡 Junior | 0 |
+| 🟠 Intermediate | 0 |
+| 🔴 Advanced | 0 |
+| 🟣 Guru | 0 |
+
+**Total Completed Challenges: 1**
+
+---
+
+## 📂 Repository Structure
