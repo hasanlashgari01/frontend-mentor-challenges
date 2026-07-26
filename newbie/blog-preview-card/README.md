@@ -9,7 +9,7 @@
 ## 🔗 Links
 
 - Live Site: https://hasanlashgari01.github.io/frontend-mentor-challenges/newbie/blog-preview-card/
-- Solution: 
+- Solution: https://www.frontendmentor.io/solutions/blog-preview-card-with-html-and-css-Wz5D826z1P
 
 ## 🛠 Built With
 
