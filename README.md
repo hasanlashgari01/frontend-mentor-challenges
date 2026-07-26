@@ -6,9 +6,11 @@
 
 This repository contains my solutions to challenges from **Frontend Mentor**.
 
-The purpose of this repository is to improve my front-end development skills by building real-world projects, practicing different concepts, and following modern development best practices.
+The purpose of this repository is to improve my front-end development skills by building real-world projects, practicing
+different concepts, and following modern development best practices.
 
 Each challenge is implemented with a focus on:
+
 - Clean and maintainable code
 - Responsive design
 - Accessibility
@@ -28,9 +30,10 @@ Each challenge is implemented with a focus on:
 
 ## 🚀 Challenges
 
-| Challenge | Difficulty | Technologies | Live Demo | Source Code |
-|-----------|------------|--------------|----------|-------------|
-| QR Code Component | 🟢 Newbie | HTML, CSS | [Demo](https://hasanlashgari01.github.io/frontend-mentor-challenges/newbie/qr-code-component/) | [Code](./newbie/qr-code-component) |
+| Challenge         | Difficulty | Technologies | Live Demo                                                                                       | Source Code                        |
+|-------------------|------------|--------------|-------------------------------------------------------------------------------------------------|------------------------------------|
+| QR Code Component | 🟢 Newbie  | HTML, CSS    | [Demo](https://hasanlashgari01.github.io/frontend-mentor-challenges/newbie/qr-code-component/)  | [Code](./newbie/qr-code-component) |
+| Blog Preview Card | 🟢 Newbie  | HTML, CSS    | [Demo](https://hasanlashgari01.github.io/frontend-mentor-challenges/newbie/blog-preview-card//) | [Code](./newbie/blog-preview-card) |
 
 > This table will be updated as I complete more challenges.
 
@@ -38,15 +41,15 @@ Each challenge is implemented with a focus on:
 
 ## 📊 Progress
 
-| Difficulty | Completed |
-|------------|-----------|
-| 🟢 Newbie | 1 |
-| 🟡 Junior | 0 |
-| 🟠 Intermediate | 0 |
-| 🔴 Advanced | 0 |
-| 🟣 Guru | 0 |
+| Difficulty      | Completed |
+|-----------------|-----------|
+| 🟢 Newbie       | 2         |
+| 🟡 Junior       | 0         |
+| 🟠 Intermediate | 0         |
+| 🔴 Advanced     | 0         |
+| 🟣 Guru         | 0         |
 
-**Total Completed Challenges: 1**
+**Total Completed Challenges: 2**
 
 ---
 

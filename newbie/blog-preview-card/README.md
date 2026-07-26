@@ -8,7 +8,7 @@
 
 ## 🔗 Links
 
-- Live Site: 
+- Live Site: https://hasanlashgari01.github.io/frontend-mentor-challenges/newbie/blog-preview-card/
 - Solution: 
 
 ## 🛠 Built With
